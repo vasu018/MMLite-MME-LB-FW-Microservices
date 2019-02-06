@@ -1,0 +1,13 @@
+EAL: Probing VFIO support...
+EAL: PCI device 0000:06:00.0 on NUMA socket -1
+EAL:   probe driver: 8086:10fb net_ixgbe
+EAL: PCI device 0000:06:00.1 on NUMA socket -1
+EAL:   probe driver: 8086:10fb net_ixgbe
+APP: Option name : onvm_nflib_parse_args:r
+cur_index:1, action:2, destination:1
+
+APP: Client name : Client
+APP: Waiting for manager to assign an ID...
+APP: Using Instance ID 1
+APP: Using Service ID 1
+APP: Finished Process Init.
