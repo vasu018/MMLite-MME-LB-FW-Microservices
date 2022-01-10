@@ -1,6 +1,6 @@
 # Microservices-based cellular core architecture for LTE MME
 
-For Documentation please refer to the docs[docs] Folder.
+For Documentation please refer to the docs Folder.
 
 openNetVM-based architecture with Shared CPUs for cellular core.
 
